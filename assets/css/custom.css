@@ -1,0 +1,33 @@
+body {
+	font-family: 'Quattrocento Sans';
+}
+#two {
+	background-color: white;
+	color: #555555;
+}
+#two p {
+	font-size: 18px;
+}
+#two h2 {
+	color: #555555;
+}
+#two header.major > :first-child:after {
+	background-color: #555555;
+}
+.tips {
+	background-color: white !important;
+	color: #555555;
+}
+.tips p {
+	font-size: 18px;
+}
+.tips h1,
+.tips h3 {
+	color: #555555;
+}
+.tips header.major > :first-child:after {
+	background-color: #555555;
+}
+.button.next {
+	background-color: #252a43 !important;
+}
