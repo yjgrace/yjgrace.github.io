@@ -31,3 +31,9 @@ body {
 .button.next {
 	background-color: #252a43 !important;
 }
+.inner {
+	width: 55% !important;
+}
+hr {
+	border-bottom: solid 1px #ddd;
+}
