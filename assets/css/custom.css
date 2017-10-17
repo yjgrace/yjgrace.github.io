@@ -22,7 +22,8 @@ body {
 	font-size: 18px;
 }
 .tips h1,
-.tips h3 {
+.tips h3,
+.tips h4 {
 	color: #555555;
 }
 .tips header.major > :first-child:after {
@@ -36,4 +37,24 @@ body {
 }
 hr {
 	border-bottom: solid 1px #ddd;
+}
+.annotation {
+	text-align: center;
+	color: #aaa;
+	font-size: 14px !important;
+	margin-top: -2em;
+}
+.gif {
+	margin: 0 !important;
+}
+.gif img {
+	width: 70% !important;
+	height: auto;
+	text-align: center !important;
+	margin: auto;
+}
+.reference {
+	color: #aaa;
+	font-size: 16px !important;
+	margin-bottom: 0.5em;
 }
