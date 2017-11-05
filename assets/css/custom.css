@@ -14,6 +14,17 @@ body {
 #two header.major > :first-child:after {
 	background-color: #555555;
 }
+#two header.major{
+	margin-bottom: 25px;
+}
+#two ul.portfoliolinks {
+	padding-left: 0px;
+	margin-bottom: 0px;
+	list-style: none;
+}
+#two .portfoliolinks li{
+	padding-left: 0px;
+}
 .tips {
 	background-color: white !important;
 	color: #555555;
